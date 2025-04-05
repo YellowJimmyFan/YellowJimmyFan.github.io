@@ -22,9 +22,9 @@ title_separator          : " | "
 subtitle                 : Version 1.0
 name                     : "安道临"
 description              : "求职"
-url                      : "https://YellowJimmyFan.github.io
+url                      : "https://YellowJimmyFan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : GitHub username/repo-name e.g. "YellowJimmyFan/YellowJimmyFan.github.io"
+repository               : "YellowJimmyFan/YellowJimmyFan.github.io"
 teaser                   : "/assets/img/米塔.png"
 logo                     : "/assets/img/蕾妲.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

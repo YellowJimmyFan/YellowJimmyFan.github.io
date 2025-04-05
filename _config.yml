@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -119,10 +119,10 @@ author:
   location         : "Utopia"
   # email            : "andaolin118@163.com"
   links:
-    - label: "Email"
+    - label: "电子邮箱"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto: andaolin118@163.com"
-    - label: "Website"
+    - label: "个人网站"
       icon: "fas fa-fw fa-link"
       # url: "https://github.com/YellowJimmyFan"
     - label: "Twitter"
@@ -136,7 +136,7 @@ author:
       url: "https://github.com/YellowJimmyFan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/andaolin/"
 
 # Site Footer
 footer:

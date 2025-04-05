@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "教育经历"
+  - title: "教育"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "课程节选"
+  - title: "课程"
     url: /year-archive/
   - title: "项目"
     url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "爱好"
+    url: /sitemap/

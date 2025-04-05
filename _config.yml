@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -26,7 +26,7 @@ url                      : "https://YellowJimmyFan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YellowJimmyFan/YellowJimmyFan.github.io"
 teaser                   : "/assets/img/米塔.png"
-logo                     : "/assets/img/蕾妲.png"
+#logo                     : "/assets/img/蕾妲.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200

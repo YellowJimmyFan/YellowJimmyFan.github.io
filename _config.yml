@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "安道临的个人网站"
-title_separator          : " | "
-subtitle                 : Version 1.0
+title                    : ""
+title_separator          : ""
+subtitle                 : 
 name                     : "安道临"
 description              : "求职"
 url                      : "https://YellowJimmyFan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YellowJimmyFan/YellowJimmyFan.github.io"
 teaser                   : "/assets/img/米塔.png"
-#logo                     : "/assets/img/蕾妲.png"
+logo                     : "/assets/img/蕾妲.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "害害害"
   location         : "Utopia"
-  email            : "andaolin118@163.com"
+  # email            : "andaolin118@163.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
